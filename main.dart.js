@@ -30645,7 +30645,7 @@ A.BH.prototype={}
 A.Hw.prototype={
 ga2(a){return a.name}}
 A.yj.prototype={
-L(a,b){return new A.pW(B.AD,"Flutter Demo",A.a3k(null,B.pf),null)}}
+L(a,b){return new A.pW(B.AD,"DEVS Society",A.a3k(null,B.pf),null)}}
 A.q8.prototype={
 aC(){return new A.tT(B.o)}}
 A.tT.prototype={
