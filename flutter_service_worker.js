@@ -3,11 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+  "assets/AssetManifest.json": "6f122a3a80e4e30fc9af689850b87f14",
+"assets/assets/images/armoyulogo.png": "faba728254144ed6ff72913a8ff88a47",
+"assets/assets/images/devslogo.png": "fbefe2a7e306d122c55b0989842381bd",
+"assets/assets/images/videothumbnail.jpg": "7ae6bcaa8efba6cad836b66f1c7bcfe7",
+"assets/assets/images/videothumbnailhd.jpg": "180129d8cf8ca4dad7e63165bb5976aa",
+"assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "119d4b3f4134ca14335ac1f7b365fd7f",
+"assets/NOTICES": "1c81fe0c77eb95fe5f0db21c857e2178",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dd3c4233029270506ecc994d67785a37",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
@@ -18,9 +25,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9f42d3a2198bb0aa3676260716431f86",
-"/": "9f42d3a2198bb0aa3676260716431f86",
-"main.dart.js": "fa8649edbac61d5594a280e06b48c1ad",
+"index.html": "6867219c90a8bd7af345dd725dd41d8b",
+"/": "6867219c90a8bd7af345dd725dd41d8b",
+"main.dart.js": "371d900b9c7e6e9523fdc4f5149e68b3",
 "manifest.json": "c677eabc20adbe29a3ac45f0430c4394",
 "version.json": "1e125fe28554a78751194a67aa2abd16"
 };
